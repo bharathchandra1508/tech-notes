@@ -30,3 +30,5 @@ https://openai.com/news/research/
 https://www.anthropic.com/research
 
 https://www.deeplearning.ai/the-batch
+
+https://www.langchain.com/blog
