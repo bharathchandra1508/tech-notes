@@ -16,6 +16,8 @@ https://www.interconnects.ai/?utm_source=linkedin
 
 https://cameronrwolfe.substack.com/
 
+https://poloclub.github.io/transformer-explainer/
+
 ========================
       COMPANY BLOGS
 ========================
@@ -32,3 +34,9 @@ https://www.anthropic.com/research
 https://www.deeplearning.ai/the-batch
 
 https://www.langchain.com/blog
+
+====================================
+      YOUTUBE RESOURCES
+====================================
+Channel Name - 3Blue1Brown
+https://www.youtube.com/@3blue1brown/featured
