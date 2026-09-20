@@ -16,7 +16,9 @@ https://www.interconnects.ai/?utm_source=linkedin
 
 https://cameronrwolfe.substack.com/
 
-https://poloclub.github.io/transformer-explainer/
+Transformers Explanation - https://poloclub.github.io/transformer-explainer/
+
+Prompt Engineering - https://www.promptingguide.ai/introduction/settings
 
 ========================
       COMPANY BLOGS
